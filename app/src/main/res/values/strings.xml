@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Sitara Calendar</string>
+    <string name="app_header_title">Color Calendar</string>
+    <string name="app_header_subtitle">Sitara Calendar</string>
+    <string name="label_today">Today</string>
+    <string name="label_day">DAY</string>
+    <string name="label_date">DATE</string>
+    <string name="label_month">MONTH</string>
+    <string name="label_year">YEAR</string>
+    <string name="action_add_event">Add Event</string>
+    <string name="action_previous_month">Previous Month</string>
+    <string name="action_next_month">Next Month</string>
+    <string name="action_previous_year">Previous Year</string>
+    <string name="action_next_year">Next Year</string>
+    <string name="action_delete_event">Delete Event</string>
+</resources>

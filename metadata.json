@@ -1,0 +1,6 @@
+{
+  "name": "Sitara Calendar",
+  "description": "A professional, modern, colorful calendar application featuring live clock, beautiful gradients, month & year navigation, date details, and local event scheduling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
